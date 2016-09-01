@@ -1,0 +1,5 @@
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Server\bin\Debug\Server.dll
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Server\bin\Debug\Server.pdb
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Server\obj\Debug\Server.dll
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Server\obj\Debug\Server.pdb

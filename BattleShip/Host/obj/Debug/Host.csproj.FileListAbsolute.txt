@@ -1,0 +1,8 @@
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\bin\Debug\Host.exe.config
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\bin\Debug\Host.exe
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\bin\Debug\Host.pdb
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\bin\Debug\Server.dll
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\bin\Debug\Server.pdb
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\obj\Debug\Host.exe
+c:\users\sckor\documents\visual studio 2015\Projects\BattleShip\Host\obj\Debug\Host.pdb
